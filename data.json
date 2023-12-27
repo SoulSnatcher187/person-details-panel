@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "John Doe", "address": "123 Main St", "phone": "555-1234", "birthday": "01/15/1985", "email": "john@example.com", "occupation": "Engineer" },
+    { "id": 2, "name": "Jane Doe", "address": "456 Oak St", "phone": "555-5678", "birthday": "05/22/1990", "email": "jane@example.com", "occupation": "Teacher" },
+    { "id": 3, "name": "Bob Smith", "address": "789 Pine St", "phone": "555-9876", "birthday": "12/03/1978", "email": "bob@example.com", "occupation": "Doctor" },
+    { "id": 4, "name": "Alice Johnson", "address": "101 Elm St", "phone": "555-4321", "birthday": "09/18/1989", "email": "alice@example.com", "occupation": "Designer" },
+    { "id": 5, "name": "Charlie Brown", "address": "202 Maple St", "phone": "555-8765", "birthday": "03/07/1975", "email": "charlie@example.com", "occupation": "Artist" },
+    { "id": 6, "name": "Eva Martinez", "address": "303 Cedar St", "phone": "555-2109", "birthday": "07/25/1995", "email": "eva@example.com", "occupation": "Developer" }
+]
